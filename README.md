@@ -1,0 +1,1 @@
+# CrazyCustomModPack-autoconfig
